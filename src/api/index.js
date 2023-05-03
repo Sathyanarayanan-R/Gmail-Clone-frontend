@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const url = 'https://gmail-clone-backend-gje1.onrender.com/';
+const url = 'https://gmail-clone-backend-gje1.onrender.com';
 const headers = (token) => ({
   headers: {
     'Content-Type': 'application/json',
