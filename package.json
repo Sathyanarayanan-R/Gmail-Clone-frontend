@@ -4,7 +4,10 @@
   "main": "public/main.js",
   "scripts": {
     "start": "react-scripts start",
-    "electron-dev": "electron ."
+    "electron-dev": "electron .",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "author": "Sathyanarayanan R",
   "license": "ISC",
